@@ -4,7 +4,7 @@ Petra DataStudio의 알파 테스트가 2020-09-25 부터 시작되었습니다.
 
 > 알파 테스트 페이지는 192.168.10.x 대역으로의 접속만 허용됩니다.
 
-- [Release Note 보러가기]()
+- [Release Note 보러가기](https://github.com/sinsiway/data-studio-alpha/blob/master/release-note.md)
 
 - [사용하기](http://ds.sinsiway.com/petra/init.do)
 
