@@ -8,14 +8,16 @@
   - table data 변경 기능
   - 셀 범위 선택 및 복사, 붙여넣기 등(엑셀 호환)
   - 데이터 파일로 내보내기(type : json, csv, excel, xml, txt)
+  <img src="/images/20201023_3.png" width="400px"/>
   
 - 업데이트 알림 기능 추가
   - 현재 업데이트 내용을 볼수 있는 바로가기
   - 환경설정 > 기타 > 업데이트 관리 > 내역 바로가기(관리자 접속시 해당 환경 설정에서 사용자 다시 보지않기를 초기화 가능)
+  <img src="/images/20201023_2.png" width="400px"/>
   
 - 자동 로그아웃 및 세션 연장 기능 추가
   - 설정된 세션 시간 만료시 로그인 페이지로 이동
-  <img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+  <img src="/images/20201023_1.png" width="400px"/>
 
 - 이슈 처리
   - where 절 조건에 맞지 않는경우 레코드가 0 이어야 하는데 전에 조회한 값이 보이는 현상 수정
