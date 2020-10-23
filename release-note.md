@@ -15,6 +15,7 @@
   
 - 자동 로그아웃 및 세션 연장 기능 추가
   - 설정된 세션 시간 만료시 로그인 페이지로 이동
+  <img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 - 이슈 처리
   - where 절 조건에 맞지 않는경우 레코드가 0 이어야 하는데 전에 조회한 값이 보이는 현상 수정
