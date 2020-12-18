@@ -14,7 +14,7 @@
 
 ### 오류 수정 및 기능 개선
 
-- MongoDB java Driver 상위 버전에 맞도록 소스 코드 개선(driver 3.12 -> 4.1)
+- MongoDB java Driver 상위 버전에 맞도록 소스 코드 개선(version 3.12 -> 4.1)
 - 편집기 창에서 MongoDB 접속일 경우 Database 선택하여 구문 수행하도록 변경
 - MongoDB 등록 모달에서 인증 db와 사용자, 비밀번호 미입력시에도 등록 되도록 개선
 - MongoDB의 오브젝트 트리에서 사용자 우클릭시 메뉴 사용자 생성, 비밀번호 변경, 권한 변경 안되던 오류 수정
