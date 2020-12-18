@@ -32,7 +32,10 @@
 ### 기능 추가
 
 #### multiple sort 기능
+<img src="/images/20201120_1.gif" width="100%"/>
+
 #### 컬럼 사이즈 조절 기능
+<img src="/images/20201120_2.gif" width="100%"/>
 
 ### 이슈 처리
 
