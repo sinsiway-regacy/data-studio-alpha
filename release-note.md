@@ -27,6 +27,7 @@
 - [R&D_류대석] 화면 DB접속 탭이 하나로 연결되어 보이는 현상 [#32](https://github.com/sinsiway/data-studio-alpha/issues/32)
 
 
+
 ## 2020-11-20
 
 ### 기능 추가
@@ -46,6 +47,7 @@
 - soha DB세션에서 실행 계획 선택시 UI가 멈추는 현상 수정 [#22](https://github.com/sinsiway/data-studio-alpha/issues/22)
 
 
+
 ## 2020-11-10
 
 ### 이슈 처리
@@ -63,6 +65,7 @@
 - Data Edit 기능 사용시 soha에서 insert, update, delete 문장이 수행 가능하도록 완성되도록 개선
 - row 추가시 숫자형 컬럼에 문자로 인식되어 나던 오류 수정
 - row 추가시 date 컬럼의 날짜가 일반 포맷(yyyy-mm-dd hh:mm:ss) 및 현재시간으로 셋팅 되도록 개선
+
 
 
 ## 2020-10-23
