@@ -7,7 +7,17 @@
 #### DBMS 접근 관리
 <img src="/images/20201218_1.gif" width="100%"/>
 
+- 사용자, 조직별 접근 가능한 DBMS를 한눈에 파악 할 수 있습니다.
+- N개의 DBMS를 선택하고 N개의 사용자 및 조직을 추가 가능합니다.
+- 관리자 로그인 시 좌측 네비게이션바에 DBMS 접근 관리 보여집니다.
+- 알파 테스트를 위해 해당 기능은 미활성화 상태로 업데이트 됩니다.
+
 ### 이슈 처리
+
+- [연구소_박종한]mongodb 쿼리 실행 결과값 안보이는 현상 [#38](https://github.com/sinsiway/data-studio-alpha/issues/38)
+- [연구소_박종한]mongodb 객체검색기 안보이는 현상 [#37](https://github.com/sinsiway/data-studio-alpha/issues/37)
+- [연구소_김동훈] 결과창 아이콘 구분바 추가 요청 [#33](https://github.com/sinsiway/data-studio-alpha/issues/33)
+- [R&D_류대석] 화면 DB접속 탭이 하나로 연결되어 보이는 현상 [#32](https://github.com/sinsiway/data-studio-alpha/issues/32)
 
 
 ## 2020-11-20
