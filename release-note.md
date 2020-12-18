@@ -7,7 +7,7 @@
 - multiple sort 기능
 - 컬럼 사이즈 조절 기능
 
-## 이슈 처리
+### 이슈 처리
 
 - 편집기창과 그리드 사이의 높이 유동적으로 조절 가능하도록 개선 [#12](https://github.com/sinsiway/data-studio-alpha/issues/12)
 - 로그인된 상태에서 URL 복사 후 이기종 브라우저에서 해당 URL로 접속 시 로그인 화면으로 돌아가도록 변경 [#16](https://github.com/sinsiway/data-studio-alpha/issues/16)
