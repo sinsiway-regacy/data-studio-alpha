@@ -5,7 +5,7 @@
 ### 기능 추가
 
 #### DBMS 접근 관리
-<img src="/images/20201218_1." width="100%"/>
+<img src="/images/20201218_1.gif" width="100%"/>
 
 ### 이슈 처리
 
